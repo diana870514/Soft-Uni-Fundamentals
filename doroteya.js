@@ -1,6 +1,6 @@
-let name = Doroteya;
+let name = "Doroteya";
 let age = 21;
-let hobbies = [music,walks,games]
+let hobbies = ["music", "walks", "games"]
 
 // function solve(a,b) {
 //     for (let i = 1;i <= a; i++) {
