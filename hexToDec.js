@@ -3,4 +3,4 @@ function solve(a) {
     console.log(b)
 }
 
-solve(`35`)
+solve(`35`);
